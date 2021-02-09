@@ -19,11 +19,11 @@ Hi there, My name is Renato, I'm glad to see you here.
 ![renato_batista_350.png](renato_batista_350.png)
 
 ## About me
-I have been working with infrastructure since **2009**, I have been through Government, TV, industry, and commerce, both in Brazil and abroad.
+I have been working with infrastructure since **2009**, I have been through Governmental, TV, industry, and commerce sectors, both in Brazil and abroad.
 
-I went to Asia in **2014** to work for the government of Timor-Leste on a UN mission, in addition to perfecting my English and discovering my taste for traveling.
+I went to Asia in **2014** to work for the government of Timor-Leste on a **UN mission**, at the same time, the opportunity allowed me to improve my English and discover my taste for traveling.
 
-I returned to Brazil in **2017**, **focusing on working with DevOps**, disseminating a culture for times of different skills, teaching and implementing good practices, testing new technologies and forms of digital optimization.
+I returned to Brazil in **2017**, **focusing on working with DevOps**, disseminating a culture for teams of different skills, teaching and implementing good practices, testing new technologies and forms of digital optimization.
 
 I am a lover of technology, coffee, and RPG. Curious and ready to face any challenge. Hobbies, video games, and games, in general, have a reserved space; science fiction and fantasy books, films, and series are my favorite genres.
 
