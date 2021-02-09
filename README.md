@@ -14,18 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, My name is Renato, I'm glad to see you here.
 
-I've never been very good at talking about myself, but I've been learning for a while now, so let's go.
+![renato_batista_350.png](renato_batista_350.png)
 
-A one-sentence summary, “Nerd and technology lover, I work with infrastructure, cloud, containers, etc; I also like coffee and RPG (that one with pen and paper, of course)”, but as nothing is so simple, I am not just that.
+## About me
+I have been working with infrastructure since **2009**, I have been through Government, TV, industry, and commerce, both in Brazil and abroad.
 
-To get to know my professional side, access my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), which has everything detailed there.
-If you want to see my funny side, follow me on [Instagram](https://instagram.com/zenatuz) or [Twitter](https://twitter.com/zenatuz).
+I went to Asia in **2014** to work for the government of Timor-Leste on a UN mission, in addition to perfecting my English and discovering my taste for traveling.
 
+I returned to Brazil in **2017**, **focusing on working with DevOps**, disseminating a culture for times of different skills, teaching and implementing good practices, testing new technologies and forms of digital optimization.
 
-- 🔭 I’m currently working on Piracanjuba as a DevOps Engineer,
-- 🌱 I’m currently learning more about automation tools, cloud (Azure).
+I am a lover of technology, coffee, and RPG. Curious and ready to face any challenge. Hobbies, video games, and games, in general, have a reserved space; science fiction and fantasy books, films, and series are my favorite genres.
+
+I’m currently learning more about IaC, Azure, Kubernetes, Microservices, Digital Optimization.
+
+## Get in touch
+To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), which has everything detailed there.
+If you want to see my funny side, follow me on [Instagram](https://instagram.com/zenatuz).
 
 Hope to get in touch 😉.
-
-
