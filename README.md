@@ -33,4 +33,6 @@ I’m currently learning more about IaC, Azure, Kubernetes, Microservices, Digit
 To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), which has everything detailed there.
 If you want to see my funny side, follow me on [Instagram](https://instagram.com/zenatuz).
 
+Once in a while, I write some articles on my blog, [RenatoBatista.com.br](https://renatobatista.com.br).
+
 Hope to get in touch 😉.
