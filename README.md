@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zenatuz&theme=chartreuse-dark) -->
 
-
-[![Containers - Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker)](#)
-[![Orchestrator - Kubernetes](https://img.shields.io/badge/Orchestrator-Kubernetes-blue?logo=kubernetes)](#)
-[![Cloud Provider - AWS](https://img.shields.io/badge/Cloud_Provider-AWS-blue?logo=aws)](#)
-[![Cloud Provider - Azure](https://img.shields.io/badge/Cloud_Provider-Azure-blue?logo=azure)](#)
-[![CI-CD - Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat-square-square&logo=gitlab)](#)
-[![IAC - Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat-square-square&logo=ansible)](#)
-[![IAC - Terraform](https://img.shields.io/badge/Automation-Terraform-informational?style=flat-square-square&logo=terraform)](#)
-[![Scripting - Bash](https://img.shields.io/badge/Scripting-Bash-blue?logo=shell)](#)
-[![Scripting - Python](https://img.shields.io/badge/Scripting-Python-blue?logo=python)](#)
-[![Steam - zenatuz](https://img.shields.io/badge/Steam-zenatuz-blue?logo=steam)](#)
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://en.wikipedia.org/wiki/Linux)
+[![Containers - Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker)](https://www.docker.com/)
+[![Orchestrator - Kubernetes](https://img.shields.io/badge/Orchestrator-Kubernetes-blue?logo=kubernetes)](https://kubernetes.io/)
+[![Cloud Provider - Azure](https://img.shields.io/badge/Cloud_Provider-Azure-blue?logo=azure)](https://aws.amazon.com/)
+[![CI-CD - Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat-square-square&logo=gitlab)](https://about.gitlab.com/)
+[![IAC - Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat-square-square&logo=ansible)](https://www.ansible.com/)
+[![IAC - Terraform](https://img.shields.io/badge/Automation-Terraform-informational?style=flat-square-square&logo=terraform)](https://www.terraform.io/)
+[![Scripting - Bash](https://img.shields.io/badge/Scripting-Bash-blue?logo=shell)](https://www.shellscript.sh/)
+[![Scripting - Python](https://img.shields.io/badge/Scripting-Python-blue?logo=python)](https://www.python.org/)
+[![Steam - zenatuz](https://img.shields.io/badge/Steam-zenatuz-blue?logo=steam)](https://steamcommunity.com/id/zenatuz/)
+[![Personal Site - Blog](https://img.shields.io/badge/Personal_Site-Blog-blue?logo=jekyll)](https://renatobatista.com.br)
 
 
 ## About me
