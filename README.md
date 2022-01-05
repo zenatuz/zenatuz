@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://en.wikipedia.org/wiki/Linux)
 [![Containers - Docker](https://img.shields.io/badge/Containers-Docker-blue?logo=docker)](https://www.docker.com/)
 [![Orchestrator - Kubernetes](https://img.shields.io/badge/Orchestrator-Kubernetes-blue?logo=kubernetes)](https://kubernetes.io/)
-[![Cloud Provider - Azure](https://img.shields.io/badge/Cloud_Provider-Azure-blue?logo=azure)](https://aws.amazon.com/)
+[![Cloud Provider - AWS](https://img.shields.io/badge/Cloud_Provider-AWS-blue?logo=azure)](https://aws.amazon.com/)
+[![Cloud Provider - Azure](https://img.shields.io/badge/Cloud_Provider-Azure-blue?logo=azure)](https://azure.com/)
 [![CI-CD - Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat-square-square&logo=gitlab)](https://about.gitlab.com/)
 [![IAC - Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat-square-square&logo=ansible)](https://www.ansible.com/)
 [![IAC - Terraform](https://img.shields.io/badge/Automation-Terraform-informational?style=flat-square-square&logo=terraform)](https://www.terraform.io/)
@@ -36,26 +37,28 @@ Here are some ideas to get you started:
 
 
 ## About me
-My name is Renato Batista, I work with infrastructure since 2009, I've worked in Government, TV, industry, and commerce, both in Brazil and abroad. 
+My name is Renato Batista, I work in infrastructure since 2009, I have worked in government, TV, industry and commerce, both in Brazil and abroad.
 
-I went to Asia in **2014** to work for the government of Timor-Leste on a **UN mission**, at the same time, this opportunity allowed me to improve my English and also  I could discover my taste for traveling.
+In 2014 I went to Asia to work for the government of Timor-Leste in a UN mission. At the same time, this opportunity allowed me to improve my English and discover my passion for travel.
 
-I returned to Brazil in **2017**, **focusing on working with DevOps**, disseminating a culture for teams of different skills, teaching and implementing good practices, testing new technologies and forms of digital optimization.
+In 2017, I returned to Brazil and focused on working with DevOps, spreading a culture for teams with different skills, teaching and implementing best practices, testing new technologies and forms of digital optimization.
 
-In **2021 I moved to Portugal** with my family, where I have been working as a DevOps Engineer ever since.
+In 2021, I moved with my family to Portugal, where I have been working as a DevOps Engineer ever since.
 
 ---
-## A little bit more
+## A little more
 
-I'm a technology, coffee, and RPG lover. Curious and ready to face any challenge. Like hobbies, video games and games, in general, have a reserved space; science fiction and fantasy books, movies, and series are my favorite genres.
+I am a lover of technology, coffee and role-playing games. Curious and willing to take on any challenge. As for hobbies, video games and games in general have a reserved place; science fiction and fantasy books, movies and series are my favorite genres.
 
-I’m currently learning more about IaC, AWS, Azure, Kubernetes, Microservices, Digital Optimization.
+I am currently learning more about IaC, AWS, Azure, Kubernetes, microservices, and digital optimization.
 
 
-## Get in touch
+## Contact me
 
-To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), which has everything detailed there.
-If you want to see my not-so-funny side, follow me on [Instagram](https://instagram.com/zenatuz).
-Once in a while, I write (in Portuguese) some articles on my blog, [renatobatista.com.br](https://renatobatista.com.br).
+To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), where you will find all the details.
 
-Hope to get in touch 😉.
+If you want to see my not-so-fun side, follow me on [Instagram](https://instagram.com/zenatuz).
+
+Every now and then I write (in Portuguese) some articles on my blog, [renatobatista.com.br](https://renatobatista.com.br).
+
+I hope we will keep in touch. 😉
