@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ![renato_batista_350.png](renato_batista_350.png) -->
 
-
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=zenatuz&theme=chartreuse-dark&show_icons=true&count_private=true) -->
 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zenatuz&theme=chartreuse-dark) -->
@@ -35,30 +34,37 @@ Here are some ideas to get you started:
 [![Steam - zenatuz](https://img.shields.io/badge/Steam-zenatuz-blue?logo=steam)](https://steamcommunity.com/id/zenatuz/)
 [![Personal Site - Blog](https://img.shields.io/badge/Personal_Site-Blog-blue?logo=jekyll)](https://renatobatista.com.br)
 
-
 ## About me
-My name is Renato Batista, I work in infrastructure since 2009, I have worked in government, TV, industry and commerce, both in Brazil and abroad.
 
-In 2014 I went to Asia to work for the government of Timor-Leste in a UN mission. At the same time, this opportunity allowed me to improve my English and discover my passion for travel.
+Hello there, my name is **Renato Batista**, I work with IT infrastructure since 2009. I have worked in government, TV, industry, commerce, and more recently Fintech, both in Brazil and abroad.
 
-In 2017, I returned to Brazil and focused on working with DevOps, spreading a culture for teams with different skills, teaching and implementing best practices, testing new technologies and forms of digital optimization.
+In 2014 I went to Asia to work for the government of Timor-Leste on a United Nations mission. At the same time, this opportunity allowed me to improve my English and discover my passion for traveling.
 
-In 2021, I moved with my family to Portugal, where I have been working as a DevOps Engineer ever since.
+In **2017**, I returned to Brazil and focused on working with DevOps, spreading a culture for teams with different skills, teaching and implementing best practices, and testing new technologies and forms of digital optimization.
 
----
-## A little more
+In **2021**, decided to move with my family to Portugal, where I have been working as a DevOps Engineer ever since.
+
+### A little more
 
 I am a lover of technology, coffee and role-playing games. Curious and willing to take on any challenge. As for hobbies, video games and games in general have a reserved place; science fiction and fantasy books, movies and series are my favorite genres.
 
-I am currently learning more about IaC, AWS, Azure, Kubernetes, microservices, and digital optimization.
+### What am I learning?
 
+I am currently learning more about Terraform, AWS, Kubernetes, microservices, and related topics.
+
+## Blog posts
+
+Those are some of the blog posts that I write once in a while, most of them are in Portuguese.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact me
 
-To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/renato-r-batista), where you will find all the details.
+To get to know my professional side, follow my profile on [Linkedin](https://linkedin.com/in/zenatuz), where you will find all the details.
 
-If you want to see my not-so-fun side, follow me on [Instagram](https://instagram.com/zenatuz).
+If you want to see something personal, follow me on [Instagram](https://instagram.com/zenatuz).
 
-Every now and then I write (in Portuguese) some articles on my blog, [renatobatista.com.br](https://renatobatista.com.br).
+Every now and then I write (mostly in Portuguese) some articles on my blog, [renatobatista.com.br](https://renatobatista.com.br).
 
 I hope we will keep in touch. 😉
