@@ -57,6 +57,11 @@ I am currently learning more about Terraform, AWS, Kubernetes, microservices, an
 Those are some of the blog posts that I write once in a while, most of them are in Portuguese.
 
 <!-- BLOG-POST-LIST:START -->
+- [Usando um notebook antigo como segundo monitor no Windows](https://renatobatista.com.br/blog/monitor-sem-fio)
+- [Portugal: O início](https://renatobatista.com.br/blog/portugal-o-inicio)
+- [O estranho caso do Azure Functions: Python com async](https://renatobatista.com.br/blog/2020-06-18-Estranho-caso-do-Azure-Functions-Python-Asyncio)
+- [Docker Stats](https://renatobatista.com.br/blog/docker-stats)
+- [Vida Corrida](https://renatobatista.com.br/blog/2019-11-30-Vida-corrida)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact me
