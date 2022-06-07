@@ -54,6 +54,8 @@ I am currently learning more about Terraform, AWS, Kubernetes, microservices, an
 
 ## Blog posts
 
+[![Latest blog post workflow](https://github.com/zenatuz/zenatuz/actions/workflows/blog-post-workflow.yml/badge.svg?branch=master)](https://github.com/zenatuz/zenatuz/actions/workflows/blog-post-workflow.yml)
+
 Those are some of the blog posts that I write once in a while, most of them are in Portuguese.
 
 <!-- BLOG-POST-LIST:START -->
