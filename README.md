@@ -59,7 +59,7 @@ I am currently learning more about Terraform, AWS, Kubernetes, microservices, an
 Those are some of the blog posts that I write once in a while, most of them are in Portuguese.
 
 <!-- BLOG-POST-LIST:START -->
-- [How to clone a bunch of repositories from any Gitlab server](https://renatobatista.com.br/blog/gitlab-clone-repos)
+- [How clone multiple repositories from any Gitlab server](https://renatobatista.com.br/blog/gitlab-clone-repos)
 - [TIL 01 - How to filter in Jekyll](https://renatobatista.com.br/til/01)
 - [Usando um notebook antigo como segundo monitor no Windows](https://renatobatista.com.br/blog/monitor-sem-fio)
 - [Portugal: O início](https://renatobatista.com.br/blog/portugal-o-inicio)
