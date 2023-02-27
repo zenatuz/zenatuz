@@ -59,11 +59,11 @@ I am currently learning more about Terraform, AWS, Kubernetes, microservices, an
 Those are some of the blog posts that I write once in a while, most of them are in Portuguese.
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL 03 - How to use conditional &amp;amp; loop in terraform](https://renatobatista.com.br/til/03)
 - [TIL 02 - How to use AWS SSO profiles correctly](https://renatobatista.com.br/til/02)
 - [How clone multiple repositories from any Gitlab server](https://renatobatista.com.br/blog/gitlab-clone-repos)
 - [TIL 01 - How to filter in Jekyll](https://renatobatista.com.br/til/01)
 - [Usando um notebook antigo como segundo monitor no Windows](https://renatobatista.com.br/blog/monitor-sem-fio)
-- [Portugal: O início](https://renatobatista.com.br/blog/portugal-o-inicio)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact me
