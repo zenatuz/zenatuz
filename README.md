@@ -44,6 +44,8 @@ In **2017**, I returned to Brazil and focused on working with DevOps, spreading 
 
 In **2021**, decided to move with my family to Portugal, where I have been working as a DevOps Engineer ever since.
 
+In **2024**, we moved to *The Nethelands*.
+
 ### A little more
 
 I am a lover of technology, coffee and role-playing games. Curious and willing to take on any challenge. As for hobbies, video games and games in general have a reserved place; science fiction and fantasy books, movies and series are my favorite genres.
