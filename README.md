@@ -42,7 +42,7 @@ In 2014 I went to Asia to work for the government of Timor-Leste on a United Nat
 
 In **2017**, I returned to Brazil and focused on working with DevOps, spreading a culture for teams with different skills, teaching and implementing best practices, and testing new technologies and forms of digital optimization.
 
-In **2021**, decided to move with my family to Portugal, where I have been working as a DevOps Engineer ever since.
+In **2021**, decided to move with my family to Portugal.
 
 In **2024**, we moved to *The Nethelands*.
 
